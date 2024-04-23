@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.car-card {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.car-card h2 {
+  color: #8e0eb8fc;
+  font-family: "Helvetica Neue", sans-serif;
+  margin-bottom: 10px;
+}
+
+.car-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.car-card li {
+  color: #666;
+  font-family: "Times New Roman", serif;
+  margin-bottom: 5px;
+}
+
+.car-card li:first-child {
+  font-weight: bold;
+}
